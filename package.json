@@ -1,0 +1,12 @@
+{
+  "name": "next-with-typescript",
+  "version": "1.0.0",
+  "description": "next js in typescript without babel",
+  "main": "index.js",
+  "author": "Carlos <echoulen@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "typescript": "^3.0.1",
+    "ts-loader": "^5.1.1"
+  }
+}
