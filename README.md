@@ -2,7 +2,7 @@
 [![npm version](https://badge.fury.io/js/next-with-typescript.svg)](https://badge.fury.io/js/next-with-typescript)
 ![license](https://img.shields.io/github/license/echoulen/next-with-typescript.svg)
 
-Use [Typescript](https://www.typescriptlang.org/) with [Next.js](https://github.com/zeit/next.js)
+Use [Typescript 3+](https://www.typescriptlang.org/) with [Next.js 7+](https://github.com/zeit/next.js)
 
 This plugin implements [ts-loader](https://github.com/TypeStrong/ts-loader) with Next.js.
 
