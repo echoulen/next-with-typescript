@@ -25,7 +25,7 @@ Optionally you can add your custom Next.js configuration as parameter
 
 ```js
 // next.config.js
-const withTypescript = require('@zeit/next-typescript')
+const withTypescript = require('next-with-typescript')
 module.exports = withTypescript({
   webpack(config, options) {
     return config
