@@ -6,6 +6,8 @@ Use [Typescript 3+](https://www.typescriptlang.org/) with [Next.js 7+](https://g
 
 This plugin implements [ts-loader](https://github.com/TypeStrong/ts-loader) with Next.js.
 
+[Example Link here](https://github.com/zeit/next.js/tree/canary/examples/with-ts-node)
+
 ## Installation
 ```
 yarn add ts-loader next-with-typescript
